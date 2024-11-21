@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workplace CSharp\\MagicVenteStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\metier\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\metier\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\data\\magicventestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\data\\magicventestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\metier\\metierservices\\clientsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\metier\\metierservices\\clientsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\metier\\metierservices\\produitsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\metier\\metierservices\\produitsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\metier\\metierservices\\iclientsserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\metier\\metierservices\\iclientsserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\metier\\metierservices\\iproduitsserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\metier\\metierservices\\iproduitsserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\magicventestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\magicventestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\metier\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\metier\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|c:\\workplace csharp\\magicventestore\\magicventestore\\migrations\\20241121034352_clientlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3747B0A2-7558-4B4F-BA30-3E684340F0EE}|MagicVenteStore\\MagicVenteStore.csproj|solutionrelative:magicventestore\\migrations\\20241121034352_clientlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 445,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241121034352_clientLogin.cs",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Migrations\\20241121034352_clientLogin.cs",
+              "RelativeDocumentMoniker": "MagicVenteStore\\Migrations\\20241121034352_clientLogin.cs",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Migrations\\20241121034352_clientLogin.cs",
+              "RelativeToolTip": "MagicVenteStore\\Migrations\\20241121034352_clientLogin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:43:52.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Metier\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "MagicVenteStore\\Metier\\Models\\Client.cs",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Metier\\Models\\Client.cs",
+              "RelativeToolTip": "MagicVenteStore\\Metier\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:42:34.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientsManager.cs",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Metier\\MetierServices\\ClientsManager.cs",
+              "RelativeDocumentMoniker": "MagicVenteStore\\Metier\\MetierServices\\ClientsManager.cs",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Metier\\MetierServices\\ClientsManager.cs",
+              "RelativeToolTip": "MagicVenteStore\\Metier\\MetierServices\\ClientsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:23:03.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClientsServiceAPI.cs",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Metier\\MetierServices\\IClientsServiceAPI.cs",
+              "RelativeDocumentMoniker": "MagicVenteStore\\Metier\\MetierServices\\IClientsServiceAPI.cs",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Metier\\MetierServices\\IClientsServiceAPI.cs",
+              "RelativeToolTip": "MagicVenteStore\\Metier\\MetierServices\\IClientsServiceAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:14:02.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MagicVenteStore.csproj",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\MagicVenteStore.csproj",
+              "RelativeDocumentMoniker": "MagicVenteStore\\MagicVenteStore.csproj",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\MagicVenteStore.csproj",
+              "RelativeToolTip": "MagicVenteStore\\MagicVenteStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T01:56:43.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "MagicVenteStore\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "MagicVenteStore\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:35:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MagicVenteStoreContext.cs",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Data\\MagicVenteStoreContext.cs",
+              "RelativeDocumentMoniker": "MagicVenteStore\\Data\\MagicVenteStoreContext.cs",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Data\\MagicVenteStoreContext.cs",
+              "RelativeToolTip": "MagicVenteStore\\Data\\MagicVenteStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:19:35.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Program.cs",
+              "RelativeDocumentMoniker": "MagicVenteStore\\Program.cs",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Program.cs",
+              "RelativeToolTip": "MagicVenteStore\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:20:09.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProduitsManager.cs",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Metier\\MetierServices\\ProduitsManager.cs",
+              "RelativeDocumentMoniker": "MagicVenteStore\\Metier\\MetierServices\\ProduitsManager.cs",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Metier\\MetierServices\\ProduitsManager.cs",
+              "RelativeToolTip": "MagicVenteStore\\Metier\\MetierServices\\ProduitsManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:53:16.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProduitController.cs",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Controllers\\ProduitController.cs",
+              "RelativeDocumentMoniker": "MagicVenteStore\\Controllers\\ProduitController.cs",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Controllers\\ProduitController.cs",
+              "RelativeToolTip": "MagicVenteStore\\Controllers\\ProduitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:03:41.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Metier\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "MagicVenteStore\\Metier\\Models\\Produit.cs",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Metier\\Models\\Produit.cs",
+              "RelativeToolTip": "MagicVenteStore\\Metier\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:08:59.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProduitsServiceAPI.cs",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Metier\\MetierServices\\IProduitsServiceAPI.cs",
+              "RelativeDocumentMoniker": "MagicVenteStore\\Metier\\MetierServices\\IProduitsServiceAPI.cs",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Metier\\MetierServices\\IProduitsServiceAPI.cs",
+              "RelativeToolTip": "MagicVenteStore\\Metier\\MetierServices\\IProduitsServiceAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:55:31.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MagicVenteStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Workplace CSharp\\MagicVenteStore\\MagicVenteStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MagicVenteStore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T03:44:17.188Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 188,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

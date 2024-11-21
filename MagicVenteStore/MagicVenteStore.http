@@ -1,0 +1,6 @@
+@MagicVenteStore_HostAddress = http://localhost:5087
+
+GET {{MagicVenteStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
